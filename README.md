@@ -1,7 +1,7 @@
 ### Hola 👋 estoy por aquí también. 👨‍💻 💻 🖥️
 
 
-![Manieflo's GitHub stats](https://github-readme-stats.vercel.app/api?username=maneflo&&show_icons=truehide=contribs,prs&theme=cobalt)
+![Manieflo's GitHub stats](https://github-readme-stats.vercel.app/api?username=maneflo&show_icons=true&show=contribs,prs&theme=cobalt)
 
 
 <!--
